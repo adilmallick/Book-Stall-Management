@@ -1,0 +1,182 @@
+C:\Users\arifm\source\repos\opt\opt\bin\Debug\opt.exe.config
+C:\Users\arifm\source\repos\opt\opt\bin\Debug\opt.exe
+C:\Users\arifm\source\repos\opt\opt\bin\Debug\opt.pdb
+C:\Users\arifm\source\repos\opt\opt\obj\Debug\opt.csproj.AssemblyReference.cache
+C:\Users\arifm\source\repos\opt\opt\obj\Debug\opt.Form1.resources
+C:\Users\arifm\source\repos\opt\opt\obj\Debug\opt.Properties.Resources.resources
+C:\Users\arifm\source\repos\opt\opt\obj\Debug\opt.csproj.GenerateResource.cache
+C:\Users\arifm\source\repos\opt\opt\obj\Debug\opt.csproj.CoreCompileInputs.cache
+C:\Users\arifm\source\repos\opt\opt\obj\Debug\opt.exe
+C:\Users\arifm\source\repos\opt\opt\obj\Debug\opt.pdb
+C:\Users\arifm\Desktop\book-stall-main\opt\bin\Debug\opt.exe.config
+C:\Users\arifm\Desktop\book-stall-main\opt\bin\Debug\opt.exe
+C:\Users\arifm\Desktop\book-stall-main\opt\bin\Debug\opt.pdb
+C:\Users\arifm\Desktop\book-stall-main\opt\obj\Debug\opt.csproj.AssemblyReference.cache
+C:\Users\arifm\Desktop\book-stall-main\opt\obj\Debug\opt.Form1.resources
+C:\Users\arifm\Desktop\book-stall-main\opt\obj\Debug\opt.Properties.Resources.resources
+C:\Users\arifm\Desktop\book-stall-main\opt\obj\Debug\opt.csproj.GenerateResource.cache
+C:\Users\arifm\Desktop\book-stall-main\opt\obj\Debug\opt.csproj.CoreCompileInputs.cache
+C:\Users\arifm\Desktop\book-stall-main\opt\obj\Debug\opt.exe
+C:\Users\arifm\Desktop\book-stall-main\opt\obj\Debug\opt.pdb
+C:\Users\arifm\Music\book-stall-main\opt\bin\Debug\opt.exe.config
+C:\Users\arifm\Music\book-stall-main\opt\bin\Debug\opt.exe
+C:\Users\arifm\Music\book-stall-main\opt\bin\Debug\opt.pdb
+C:\Users\arifm\Music\book-stall-main\opt\obj\Debug\opt.csproj.AssemblyReference.cache
+C:\Users\arifm\Music\book-stall-main\opt\obj\Debug\opt.Form1.resources
+C:\Users\arifm\Music\book-stall-main\opt\obj\Debug\opt.Properties.Resources.resources
+C:\Users\arifm\Music\book-stall-main\opt\obj\Debug\opt.csproj.GenerateResource.cache
+C:\Users\arifm\Music\book-stall-main\opt\obj\Debug\opt.csproj.CoreCompileInputs.cache
+C:\Users\arifm\Music\book-stall-main\opt\obj\Debug\opt.exe
+C:\Users\arifm\Music\book-stall-main\opt\obj\Debug\opt.pdb
+C:\OPT LIVE\book-stall\opt\bin\Debug\opt.exe.config
+C:\OPT LIVE\book-stall\opt\bin\Debug\opt.exe
+C:\OPT LIVE\book-stall\opt\bin\Debug\opt.pdb
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.csproj.AssemblyReference.cache
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.Properties.Resources.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.csproj.GenerateResource.cache
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.csproj.CoreCompileInputs.cache
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.exe
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.pdb
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\bin\Debug\opt.exe.config
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\bin\Debug\opt.exe
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\bin\Debug\opt.pdb
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.csproj.AssemblyReference.cache
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.Properties.Resources.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.csproj.GenerateResource.cache
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.csproj.CoreCompileInputs.cache
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.exe
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.pdb
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.Login.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.Login.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.Home.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.DashBoard.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.AccountSetup.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.PartySetup.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.ItemSetup.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.Customer.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.Party.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.Expense.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.Report.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.DatabaseBackup.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.DatabaseUser.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.Help.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.TermsAndCondition.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.Purchase.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.Sale.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.Return.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.ItemSetupAdd.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.PartySetupAdd.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.Home.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.Customer.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.ItemSetupAdd.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.Party.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.Expense.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.PartySetupAdd.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.Report.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.DatabaseBackup.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.Help.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.DashBoard.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.AccountSetup.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.PartySetup.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.ItemSetup.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.TermsAndCondition.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.Purchase.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.Sale.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.Return.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.Admin.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.AdminAdd.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.UserAdd.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.BankSerup.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.AdminAdd.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.UserAdd.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.Admin.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.User.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.BankSetup.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.BankSetup.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.Stock.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\opt\obj\Debug\opt.User.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.Stock.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\bin\Debug\opt.exe.config
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\bin\Debug\opt.exe
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\bin\Debug\opt.pdb
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.csproj.AssemblyReference.cache
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.AdminAdd.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.Stock.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.User.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.UserAdd.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.Home.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.Customer.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.ItemSetupAdd.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.Expense.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.PartySetupAdd.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.Report.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.Admin.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.DatabaseBackup.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.Help.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.AccountSetup.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.PartySetup.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.ItemSetup.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.Return.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.Login.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.Properties.Resources.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.csproj.GenerateResource.cache
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.csproj.CoreCompileInputs.cache
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.exe
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.pdb
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.BankSetupAdd.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.BankSetup.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.CustomerAdd.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.TermsAndCondition.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.PartyAdd.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.Party.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.ExpenseAdd.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.BankSetupAdd.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.CustomerAdd.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.PartyAdd.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.ExpenseAdd.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.Dashboard.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.Sale.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.PurchaseAdd.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.Purchase.resources
+C:\Users\arifm\source\repos\OPT BOOK STALL\optprojects3\book-stall\book-stall-main\opt\obj\Debug\opt.DatabaseRestoref.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.DatabaseRestoref.resources
+C:\OPT LIVE\book-stall\opt\obj\Debug\opt.PurchaseAdd.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\bin\Debug\opt.exe.config
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\bin\Debug\opt.exe
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\bin\Debug\opt.pdb
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.csproj.AssemblyReference.cache
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.AdminAdd.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.BankSetupAdd.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.BankSetup.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.Customer.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.Expense.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.Dashboard.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.Purchase.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.Sale.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.Party.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.TermsAndCondition.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.Stock.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.User.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.UserAdd.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.Home.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.CustomerAdd.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.ItemSetupAdd.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.PartyAdd.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.ExpenseAdd.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.PartySetupAdd.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.Report.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.Admin.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.DatabaseBackup.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.DatabaseRestoref.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.Help.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.AccountSetup.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.PartySetup.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.ItemSetup.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.PurchaseAdd.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.Return.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.Login.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.Properties.Resources.resources
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.csproj.GenerateResource.cache
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.csproj.CoreCompileInputs.cache
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.exe
+C:\Users\adilh\Desktop\Opt\book-stall\book-stall-main\opt\obj\Debug\opt.pdb
